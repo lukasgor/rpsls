@@ -1,11 +1,10 @@
-# Kickstart
+# Rock-Paper-Scissors-Lizard-Spock
 
 ## Getting started
 
-Kickstart is a kickstarter-like application but build on Ethereum. 
-It enables you to create campaigns and gather contributors, but unlike a real kick-starter the money(eth) is stored on a smart contract and you need to get at least 50% contributors approvals for any spending (so campaign manager is not able to just run away with money). 
+Rock Paper Scissors Lizard Spock game built on Ethereum.
 You need to have a [metamask](https://metamask.io/) installed in order to interact with the app.
-Test version running on ropsten network: URL TBD
+Test version running on ropsten network: https://rpsls-sigma.vercel.app/
 
 
 ### Installation & running locally
@@ -55,4 +54,4 @@ The following happens when a commit is pushed to a branch other than master:
 
 ### Pushing/merging to master
 
-App is automatically deployed to: URL TBD
+App is automatically deployed to: https://rpsls-sigma.vercel.app/
