@@ -80,7 +80,6 @@ const GameDetails = ({
 
   const timeoutPlayer1 = async () => {
     setPlayer1TimingOut(true);
-    console.log('aaa');
     try {
       const accounts = await web3.eth.getAccounts();
       await gameInstance.methods.j1Timeout().send({
